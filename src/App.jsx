@@ -5,7 +5,7 @@ import About from './Components/About'
 import Skills from './Components/Skills'
 import Projects from './Components/Projects'
 import Contact from './components/Contact'
-
+import './Styles/style.css';
 const App = () => {
   return (
     <div>
