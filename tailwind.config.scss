@@ -1,0 +1,8 @@
+module.exports = {
+  content: ['./src/**/*.{js,jsx}'],
+  darkMode: 'class', // to use dark mode with classes
+  theme: {
+    extend: {},
+  }, // Added missing comma here
+  plugins: [],
+66+};

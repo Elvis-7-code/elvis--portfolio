@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hero-title {
+  @apply text-4xl font-bold text-center dark:text-white text-gray-900;
+}
+
+.hero-desc {
+  @apply mt-4 text-lg max-w-xl mx-auto dark:text-gray-300 text-gray-700;
+}
+
+.dark-section {
+    @apply bg-gray-900 text-white py-16 px-8;
+  }
+
+
